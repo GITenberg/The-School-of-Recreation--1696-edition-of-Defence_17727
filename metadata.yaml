@@ -1,0 +1,28 @@
+_repo: The-School-of-Recreation--1696-edition-of-Defence_17727
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: R. H. (Robert Howlett)
+    alias: Howlett, Robert, active 1684-1709
+    gutenberg_agent_id: '7567'
+    url: http://www.gutenberg.org/2009/agents/7567
+description: ''
+gutenberg_issued: '2006-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Recreation -- Early works to 1800'
+- !lcc 'GV'
+- !lcsh 'Physical education and training -- Early works to 1800'
+title: "The School of Recreation (1696 edition)\r\nOr a Guide to the Most Ingenious\
+  \ Exercises of Hunting, Riding, Racing, Fireworks, Military Discipline, the Science\
+  \ of Defence"
+url: http://www.gutenberg.org/ebooks/17727
